@@ -1,0 +1,34 @@
+# Distribution / packaging
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+poetry.lock
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# IDEs/Build Tools (consider including if you use them)
+.idea/
+.vscode/
+build/
+
+# Virtual Environments
+.venv/
+env/
+venv
+
+# Logs
+app.log
+
+# Local Config
+config.ini
+*.ini
