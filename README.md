@@ -6,7 +6,7 @@ Support: +201286016083
 [![GitHub Release](https://img.shields.io/github/v/release/VanishMeNow/VFS-Turkey-Bot-Appointment?logo=GitHub)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/releases)
 [![PyPI - Version](https://img.shields.io/pypi/v/VFS-Turkey-Bot-Appointment?logo=pypi)](https://pypi.org/project/VFS-Turkey-Bot-Appointment)
 [![Downloads](https://static.pepy.tech/badge/VFS-Turkey-Bot-Appointment)](https://pepy.tech/project/VFS-Turkey-Bot-Appointment)
-[![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Franjan-mohanty%2Fvfs-appointment-bot.json&style=flat&logo=GitHub&label=views)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
+[![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2VanishMeNow%2Fvfs-appointment-bot.json&style=flat&logo=GitHub&label=views)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
 [![GitHub forks](https://img.shields.io/github/forks/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/forks)
 [![GitHub Repo stars](https://img.shields.io/github/stars/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/stargazers)
 
@@ -15,7 +15,7 @@ Support: +201286016083
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/badge)](https://securityscorecards.dev/viewer/?uri=github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
 [![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/issues)
 ![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/VanishMeNow/VFS-Turkey-Bot-Appointment)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Franjan-mohanty%2Fvfs-appointment-bot)](https://twitter.com/intent/tweet?text=Check%20this%20out%20&url=https%3A%2F%2Fgithub.com%2Franjan-mohanty%2Fvfs-appointment-bot)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2VanishMeNOw%2Fvfs-appointment-bot)](https://twitter.com/intent/tweet?text=Check%20this%20out%20&url=https%3A%2F%2Fgithub.com%2VanishMeNow%2Fvfs-appointment-bot)
 
 This Python script(**VFS-Turkey-Bot-Appointment**) automates checking for appointments at VFS Global portal in a specified country.
 
