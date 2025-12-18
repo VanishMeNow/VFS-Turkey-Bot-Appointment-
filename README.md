@@ -1,21 +1,83 @@
-# VFS Appointment Bot
+<div align="center">
 
-Support: +201286016083
+# 🚀 VFS Appointment Bot  
+### Automated Visa Appointment Booking System
+
+🔐 **Fast • Smart • Reliable • Undetectable**
+
+<a href="https://wa.me/201286016083" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Contact%20Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+📞 **Support:** +20 128 601 6083  
+
+---
 
 [![GitHub License](https://img.shields.io/github/license/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/blob/main/LICENSE)
 [![GitHub Release](https://img.shields.io/github/v/release/VanishMeNow/VFS-Turkey-Bot-Appointment?logo=GitHub)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/releases)
 [![PyPI - Version](https://img.shields.io/pypi/v/VFS-Turkey-Bot-Appointment?logo=pypi)](https://pypi.org/project/VFS-Turkey-Bot-Appointment)
 [![Downloads](https://static.pepy.tech/badge/VFS-Turkey-Bot-Appointment)](https://pepy.tech/project/VFS-Turkey-Bot-Appointment)
-[![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2VanishMeNow%2Fvfs-appointment-bot.json&style=flat&logo=GitHub&label=views)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
+[![Repo Views](https://hits.dwyl.com/VanishMeNow/VFS-Turkey-Bot-Appointment.svg)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
+
 [![GitHub forks](https://img.shields.io/github/forks/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/forks)
 [![GitHub Repo stars](https://img.shields.io/github/stars/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/issues)
 
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/VanishMeNow/VFS-Turkey-Bot-Appointment/build.yml)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/actions/workflows/build.yml)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/21f1ecd428ec4342980020a6ef383439)](https://app.codacy.com/gh/VanishMeNow/VFS-Turkey-Bot-Appointment/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![GitHub Actions](https://img.shields.io/github/actions/workflow/status/VanishMeNow/VFS-Turkey-Bot-Appointment/build.yml)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/actions)
+[![Codacy](https://app.codacy.com/project/badge/Grade/21f1ecd428ec4342980020a6ef383439)](https://app.codacy.com/gh/VanishMeNow/VFS-Turkey-Bot-Appointment/dashboard)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/badge)](https://securityscorecards.dev/viewer/?uri=github.com/VanishMeNow/VFS-Turkey-Bot-Appointment)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/VanishMeNow/VFS-Turkey-Bot-Appointment)](https://github.com/VanishMeNow/VFS-Turkey-Bot-Appointment/issues)
-![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/VanishMeNow/VFS-Turkey-Bot-Appointment)
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2VanishMeNOw%2Fvfs-appointment-bot)](https://twitter.com/intent/tweet?text=Check%20this%20out%20&url=https%3A%2F%2Fgithub.com%2VanishMeNow%2Fvfs-appointment-bot)
+
+</div>
+
+---
+
+## 🧠 About The Project
+
+**VFS Appointment Bot** is a **high-performance automation system** designed to book visa appointments on **VFS Global** platforms with extreme precision.
+
+Built for:
+- ⚡ Speed
+- 🕵️ Stealth (Anti-Bot Detection)
+- 🎯 Accurate date targeting
+- 🔄 Auto retry & smart waiting logic
+
+This bot mimics **real human behavior** to bypass common protection mechanisms used by VFS systems.
+
+---
+
+## ✨ Key Features
+
+- 🤖 Fully Automated Appointment Booking  
+- 📅 Smart Calendar Navigation (Target specific dates)  
+- 🧠 Human-like interaction (Mouse, timing, scrolling)  
+- 🔁 Auto retry when slots are unavailable  
+- 🧪 Tested on real VFS environments  
+- 🔐 Secure & modular codebase  
+
+---
+
+## 🛠 Tech Stack
+
+- **Python 3.10+**
+- **Selenium**
+- **Undetected Chromedriver**
+- **Advanced Wait & Retry Logic**
+- **Logging & Monitoring System**
+
+---
+
+## 📦 Project Structure
+
+```bash
+VFS-Appointment-Bot/
+│
+├─ core/               # Core automation logic
+├─ utils/              # Helpers (waits, logging, validators)
+├─ assets/             # Images & icons
+├─ logs/               # Execution logs
+├─ config.py           # Bot configuration
+└─ main.py             # Entry point
+
 
 This Python script(**VFS-Turkey-Bot-Appointment**) automates checking for appointments at VFS Global portal in a specified country.
 
